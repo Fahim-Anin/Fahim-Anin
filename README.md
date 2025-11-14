@@ -18,9 +18,6 @@
   <a href="https://stackoverflow.com/users/18896822/fahim-anin">
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/>
   </a>
-  <a href="https://www.facebook.com/fahim.anin.79">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45"/>
-  </a>
   <a href="mailto:fahimmuntasir040@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
