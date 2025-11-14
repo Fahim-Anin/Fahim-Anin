@@ -63,7 +63,13 @@
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->\
+### 🧩 LeetCode Problem Solving Calendar
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" alt="LeetCode Calendar"/>
+</p>
+
 
 ### 🏆 GitHub Stats
 
@@ -76,15 +82,5 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Anin&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%" alt="Fahim's Top Languages"/>
 </p>
 
-
----
-
-### 💻 Problem Solving & My Stats
-
-### 🧩 LeetCode Problem Solving Calendar
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&font=Baloo&extension=activity&border=0" />
-</p>
 
 
