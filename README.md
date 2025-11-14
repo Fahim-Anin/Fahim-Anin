@@ -84,7 +84,7 @@
 ### 🧩 LeetCode Problem Solving Calendar
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&font=Baloo&extension=activity&border=0" />
 </p>
+
 
