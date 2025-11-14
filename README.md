@@ -83,5 +83,5 @@
 ### 💻 Problem Solving & My Stats
 
 <p align="center">
-    <img src="https://leetcard.yusufpurwadhana.repl.co/?username=fahimmuntasir040&amp;theme=dark" alt="Fahim's LeetCode Calendar" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=fahimmuntasir040&theme=dark" alt="Fahim's LeetCode Stats Card" />
 </p>
