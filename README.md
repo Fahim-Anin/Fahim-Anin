@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toriqultonu" alt="toriqultonu" /></a> </p>
 
 
-- 📫 How to reach me **toriqultonu22@gmail.com**
+- 📫 How to reach me **fahimmuntasir040@gmail.com**
 
 - 📄 Know about me [click here](https://toriqultonu.github.io/my_portfolio/)
 
