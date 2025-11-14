@@ -58,6 +58,21 @@
   <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" width="45%" />
 </p>
 
+## 🏅 HackerRank Achievements
+
+<p align="center">
+
+  <!-- Python Basic Certificate -->
+  <a href="https://www.hackerrank.com/certificates/cf42e72b493e" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Basic%20Certificate-1F8ACB?style=for-the-badge&logo=hackerrank&logoColor=white" height="45"/>
+  </a>
+
+  <!-- Python Gold Badge -->
+  <a href="https://www.hackerrank.com/fahimmuntasir040" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Gold%20Badge-F7B600?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+  </a>
+
+</p>
 ---
 
 ## 🏆 GitHub Stats
