@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/GitHub-222233?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
----
 
 ## 🧩 Problem Solving Stats
 
@@ -73,7 +72,7 @@
   </a>
 
 </p>
----
+
 
 ## 🏆 GitHub Stats
 
