@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim Muntasir Moumit</h1>
+[<h1 align="center">Hi 👋, I'm Fahim Muntasir Moumit</h1>
 <h3 align="center">A passionate software engineer, currently working in Springboot</h3>
 
 
@@ -79,9 +79,10 @@
 
 ---
 
----
 ### 💻 Problem Solving & My Stats
 
+### 🧩 LeetCode Problem Solving Calendar
+
 <p align="center">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=fahimmuntasir040&theme=dark" alt="Fahim's LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" alt="LeetCode Calendar"/>
 </p>
