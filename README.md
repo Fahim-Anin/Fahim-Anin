@@ -3,6 +3,12 @@
 <h3 align="center">Software Engineer | Java & Spring Boot Developer | Problem Solver</h3>
 
 ---
+## 🚀 About Me  
+- 🔧 Passionate about backend development with **Java + Spring Boot**  
+- 💡 Love solving problems on **LeetCode & GitHub**  
+- 🧠 Exploring **machine learning, model training & PyTorch**
+
+---
 
 ## 🔗 Connect With Me  
 <p align="center">
@@ -70,12 +76,6 @@
 
 ---
 
-## 🚀 About Me  
-- 🔧 Passionate about backend development with **Java + Spring Boot**  
-- 💡 Love solving problems on **LeetCode & GitHub**  
-- 🧠 Exploring **machine learning, model training & PyTorch**
-
----
 
 <!-- FOOTER -->
 <h3 align="center">🔥 Always learning. Always building. Always improving.</h3>
