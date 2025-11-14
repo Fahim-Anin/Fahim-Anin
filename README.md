@@ -63,11 +63,14 @@
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->\
-### 🧩 LeetCode Problem Solving Calendar
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->
+### 🧩 Problem Solving Stats
+
+### 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" alt="LeetCode Calendar"/>
+  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/fahimmuntasir040?theme=dark&extension=activity" width="48%" />
 </p>
 
 
