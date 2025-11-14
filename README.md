@@ -2,15 +2,7 @@
 <h3 align="center">A passionate software engineer, currently working in Springboot</h3>
 
 
-<!-- <img src="https://profile-counter.glitch.me/toriqultonu/count.svg" alt="Visitor Count"/> -->
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toriqultonu" alt="toriqultonu" /></a> </p> -->
-
-
 - 📫 How to reach me **fahimmuntasir040@gmail.com**
-
-
 
 - ⚡ Fun fact **I can drink 4 cock at a time**
 
@@ -64,7 +56,7 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->
-### 🧩 Problem Solving Stats
+### 🧩 Problem Solving Stats->
 
 ### 🧩 LeetCode
 
